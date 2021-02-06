@@ -1,1 +1,1 @@
-# Git-push-and-pull-activiy
+#conflict-resolution
