@@ -1,3 +1,4 @@
 #conflict-resolution
 
-this is a test, dont panic
+
+wrong this is not a test, do panic
